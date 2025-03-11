@@ -7,6 +7,11 @@
         <mxCell id="v5h3SYPo3z2c4t_fWK3u-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v5h3SYPo3z2c4t_fWK3u-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="320" />
+              <mxPoint x="550" y="320" />
+              <mxPoint x="550" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v5h3SYPo3z2c4t_fWK3u-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
